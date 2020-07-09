@@ -3,7 +3,7 @@
 
 To sort the music playlits accordin to the genre,artist, album.
 parse an XML list of albums, artists, and Genres and produce a properly normalized database using a 
-Python program.
+Python program. The database used is sqlite.
 
 This project exports Library.xml from iTunes, and stores the various details of the genre, artist 
 and albums and sorts them accordingly.
