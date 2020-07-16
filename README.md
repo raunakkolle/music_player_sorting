@@ -1,4 +1,4 @@
-## music_player_sorting
+## music playlist generator
 #sorting the music player
 
 To sort the music playlist according to the genre,artist, album.
